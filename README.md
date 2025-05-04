@@ -74,3 +74,7 @@ http://localhost/support-ticket-system/
 - All features are implemented using plain PHP and MySQL.
 
 ---
+
+## 📄 Live
+
+This project is open-source and free to use. https://wivona.com
